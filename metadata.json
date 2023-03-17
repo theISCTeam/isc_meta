@@ -1,0 +1,6 @@
+{
+  "name": "International Stable Currency",
+  "symbol": "ISC",
+  "description": "International Stable Currency (ISC) is a stablecoin pegged to the value of an underlying basket of real assets.",
+  "image": "https://raw.githubusercontent.com/theISCTeam/isc_meta/main/logo.png"
+}
